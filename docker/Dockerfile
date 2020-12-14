@@ -3,7 +3,7 @@ MAINTAINER Jorge Trujillo <jorge.alberto.trujillo@gmail.com>
 
 ENV HOME /root
 ENV TIMEZONE=America/Chicago
-ENV JAR_NAME webflux-demo.jar
+ENV JAR_NAME api-headers.jar
 
 # Prereqs
 RUN apt-get update \

@@ -53,7 +53,7 @@ apply plugin: 'com.avast.gradle.docker-compose'
 version = '0.1.0'
 
 jar {
-  archiveFileName = 'webflux-demo'
+  archiveFileName = 'api-headers'
 }
 
 repositories {
